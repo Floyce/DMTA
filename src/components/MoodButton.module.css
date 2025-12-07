@@ -1,0 +1,50 @@
+.buttonWrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.moodButton {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 24px 64px;
+    border-radius: 50px;
+    backdrop-filter: blur(10px);
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    transition: background 0.3s ease;
+}
+
+.moodButton:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: var(--color-primary-pink);
+}
+
+.text {
+    font-family: var(--font-serif);
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--color-white);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+}
+
+.longPressIndicator {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4px;
+    background: var(--color-primary-pink);
+    border-radius: 0 0 50px 50px;
+    /* Approximate */
+    width: 0%;
+    z-index: 3;
+    pointer-events: none;
+    /* Masking to follow button shape if needed, but simple bar is mostly visible if bottom aligned */
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 2px;
+}

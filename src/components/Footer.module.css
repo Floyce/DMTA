@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    z-index: 10;
+    pointer-events: none;
+    /* Let clicks pass through to particles or background if needed, but text selectable */
+}
+
+.text {
+    font-family: var(--font-sans);
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    opacity: 0.5;
+    pointer-events: auto;
+}

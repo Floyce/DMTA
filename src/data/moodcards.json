@@ -1,0 +1,262 @@
+[
+    {
+        "id": "dawn_spark",
+        "title": "The Dawn Spark",
+        "symbol": "dawn",
+        "themeColor": "#FF9ECF",
+        "keywords": [
+            "Renewal",
+            "Awakening",
+            "Momentum"
+        ],
+        "description": "Your energy today is leaning towards beginnings that want motion. Something inside you is preparing to rise, stretch and accelerate.",
+        "type": "light"
+    },
+    {
+        "id": "velvet_void",
+        "title": "The Velvet Void",
+        "symbol": "void",
+        "themeColor": "#4B0082",
+        "keywords": [
+            "Silence",
+            "Depth",
+            "Rest"
+        ],
+        "description": "A quiet space invites you to pause. The answers you seek are found not in noise, but in the soft, dark comfort of stillness.",
+        "type": "dark"
+    },
+    {
+        "id": "prismatic_echo",
+        "title": "The Prismatic Echo",
+        "symbol": "prism",
+        "themeColor": "#E6E6FA",
+        "keywords": [
+            "Reflection",
+            "Multifaceted",
+            "Clarity"
+        ],
+        "description": "Light fragments into many truths. You are seeing a situation from multiple angles, revealing colors you missed before.",
+        "type": "light"
+    },
+    {
+        "id": "lunar_drift",
+        "title": "The Lunar Drift",
+        "symbol": "moon",
+        "themeColor": "#D8BFD8",
+        "keywords": [
+            "Flow",
+            "Intuition",
+            "Tides"
+        ],
+        "description": "Like the moon pulling the tides, your emotions are in gentle flux. Trust the pull; do not resist the natural rhythm of your feelings.",
+        "type": "light"
+    },
+    {
+        "id": "neon_pulse",
+        "title": "The Neon Pulse",
+        "symbol": "pulse",
+        "themeColor": "#FF1493",
+        "keywords": [
+            "Vibrancy",
+            "Energy",
+            "Action"
+        ],
+        "description": "A surge of electric energy moves through you. It is time to create, to speak, or to move with bold, unapologetic purpose.",
+        "type": "dark"
+    },
+    {
+        "id": "crystal_grid",
+        "title": "The Crystal Grid",
+        "symbol": "grid",
+        "themeColor": "#F0FFFF",
+        "keywords": [
+            "Structure",
+            "Connection",
+            "Logic"
+        ],
+        "description": "Chaos organizes into pattern. You are finding the hidden architecture in your life, building a foundation of clarity and order.",
+        "type": "light"
+    },
+    {
+        "id": "shadow_bloom",
+        "title": "The Shadow Bloom",
+        "symbol": "flower",
+        "themeColor": "#800080",
+        "keywords": [
+            "Growth",
+            "Mystery",
+            "Unfolding"
+        ],
+        "description": "Even in low light, beauty emerges. Something you thought was dormant is quietly blooming in the background of your mind.",
+        "type": "dark"
+    },
+    {
+        "id": "solar_flare",
+        "title": "The Solar Flare",
+        "symbol": "sun",
+        "themeColor": "#FFD700",
+        "keywords": [
+            "Power",
+            "Visibility",
+            "Radiance"
+        ],
+        "description": "You cannot hide your light today. Step into the open, for your presence is warm, demanding visually, and impossible to ignore.",
+        "type": "light"
+    },
+    {
+        "id": "azure_current",
+        "title": "The Azure Current",
+        "symbol": "wave",
+        "themeColor": "#00BFFF",
+        "keywords": [
+            "Conversation",
+            "Movement",
+            "Fluidity"
+        ],
+        "description": "Ideas flow like water. Communication is easy today; let your thoughts stream out and connect with others effortlessly.",
+        "type": "light"
+    },
+    {
+        "id": "midnight_static",
+        "title": "The Midnight Static",
+        "symbol": "static",
+        "themeColor": "#191970",
+        "keywords": [
+            "Disruption",
+            "Signal",
+            "Change"
+        ],
+        "description": "Interference patterns break the routine. A sudden insight or event disrupts the norm, offering a chance to re-tune your frequency.",
+        "type": "dark"
+    },
+    {
+        "id": "rose_quartz_haze",
+        "title": "Rose Quartz Haze",
+        "symbol": "heart",
+        "themeColor": "#FFC0CB",
+        "keywords": [
+            "Love",
+            "Softness",
+            "Healing"
+        ],
+        "description": "A gentle fog of compassion surrounds you. Be kind to yourself and others; the sharp edges of the world are softened today.",
+        "type": "light"
+    },
+    {
+        "id": "indigo_orbit",
+        "title": "The Indigo Orbit",
+        "symbol": "orbit",
+        "themeColor": "#4B0082",
+        "keywords": [
+            "Cycles",
+            "Perspective",
+            "Return"
+        ],
+        "description": "You are circling back to a familiar place, but with new eyes. The cycle repeats, but you are not the same traveler.",
+        "type": "dark"
+    },
+    {
+        "id": "golden_hour",
+        "title": "The Golden Hour",
+        "symbol": "hourglass",
+        "themeColor": "#FFDEAD",
+        "keywords": [
+            "Nostalgia",
+            "Warmth",
+            "Transition"
+        ],
+        "description": "The light is perfect, but fleeting. Savor the moment before it passes. A time of golden memories and warm transitions.",
+        "type": "light"
+    },
+    {
+        "id": "virtual_rain",
+        "title": "Virtual Rain",
+        "symbol": "rain",
+        "themeColor": "#E0FFFF",
+        "keywords": [
+            "Cleansing",
+            "Refresh",
+            "Digital"
+        ],
+        "description": "A wash of cool data cleanses the mind. Let go of old files and cached thoughts. Restart with a clean slate.",
+        "type": "light"
+    },
+    {
+        "id": "obsidian_mirror",
+        "title": "The Obsidian Mirror",
+        "symbol": "mirror",
+        "themeColor": "#000000",
+        "keywords": [
+            "Truth",
+            "Self",
+            "Reflection"
+        ],
+        "description": "Look closely. The dark surface reflects only what is true, stripping away illusions. Face yourself with courage.",
+        "type": "dark"
+    },
+    {
+        "id": "ethereal_bridge",
+        "title": "The Ethereal Bridge",
+        "symbol": "bridge",
+        "themeColor": "#F5F5F5",
+        "keywords": [
+            "Transition",
+            "Connection",
+            "Faith"
+        ],
+        "description": "A path appears over the abyss. Trust the invisible support as you move from one state of being to another.",
+        "type": "light"
+    },
+    {
+        "id": "crimson_pulse",
+        "title": "The Crimson Pulse",
+        "symbol": "blood",
+        "themeColor": "#DC143C",
+        "keywords": [
+            "Life",
+            "Passion",
+            "Urgency"
+        ],
+        "description": "The heartbeat quickens. Something vital demands your attention. It is a time of intense feeling and passionate action.",
+        "type": "dark"
+    },
+    {
+        "id": "celestial_align",
+        "title": "Celestial Alignment",
+        "symbol": "star_align",
+        "themeColor": "#FFFACD",
+        "keywords": [
+            "Harmony",
+            "Timing",
+            "Destiny"
+        ],
+        "description": "Everything falls into place. The gears of the universe mesh perfectly. Act now, for the timing is exquisite.",
+        "type": "light"
+    },
+    {
+        "id": "violet_veil",
+        "title": "The Violet Veil",
+        "symbol": "veil",
+        "themeColor": "#EE82EE",
+        "keywords": [
+            "Mystery",
+            "Thinning",
+            "Spirit"
+        ],
+        "description": "The veil between the seen and unseen thins. Pay attention to dreams, whispers, and the subtle signs of the spirit.",
+        "type": "light"
+    },
+    {
+        "id": "quantum_leap",
+        "title": "The Quantum Leap",
+        "symbol": "atom",
+        "themeColor": "#00CED1",
+        "keywords": [
+            "Jump",
+            "Shift",
+            "Unknown"
+        ],
+        "description": "You are not walking; you are jumping. A sudden, non-linear shift in your reality is possible if you dare to leap.",
+        "type": "light"
+    }
+]
